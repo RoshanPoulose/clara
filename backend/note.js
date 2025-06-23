@@ -67,4 +67,4 @@
 app.use(express.json())//Allows your server to understand JSON data sent from frontend (like login forms or product info)
 app.use(cors()) //Lets your frontend (React/Angular) talk to your backend (here, Express).    
 
-                            
+                                   
